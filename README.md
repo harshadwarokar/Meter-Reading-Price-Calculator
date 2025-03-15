@@ -16,7 +16,7 @@ Ensure you have **Python 3.8+** installed on your system.
 ### Setup
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/Meter-Reading-Price-Calculator.git
+   git clone https://github.com/harshadwarokar/Meter-Reading-Price-Calculator.git
    cd Meter-Reading-Price-Calculator
    ```
 
